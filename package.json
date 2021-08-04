@@ -1,0 +1,26 @@
+{
+  "name": "passportauth",
+  "version": "1.0.0",
+  "description": "Authentication with passport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamshukla2804/loginWithAuth.git"
+  },
+  "author": "shivam shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamshukla2804/loginWithAuth/issues"
+  },
+  "homepage": "https://github.com/shivamshukla2804/loginWithAuth#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
